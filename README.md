@@ -97,3 +97,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+### Netlify Deployment
+Production: <https://msci342lab5.netlify.app/>\
+This project was bootstrapped with Dependencies are locked with a `yarn.lock` file, so please use `yarn` instead
+of `npm` to install them.
+
+[Create React App](https://github.com/facebook/create-react-app).
+
