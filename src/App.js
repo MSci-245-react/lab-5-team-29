@@ -1,14 +1,18 @@
 import RestaurantScreen from './components/RestaurantScreen.js';
-import Counter from './features/counter/counter.js'
-import IncrementByAmount from './features/counter/incrementByAmount.js'
+import Counter from './features/counter/Counter.js'
+import IncrementByAmount from './features/counter/IncrementByAmount.js'
+import TodoApp from "./TodoApp";
 
 export default function App() {
   return (
     <div style={{ margin: '20px' }}>
-      <RestaurantScreen />
+      {/* <RestaurantScreen />
 
       <IncrementByAmount/>
-      <Counter/>
+      <Counter/> */}
+
+      <TodoApp />
+
     </div>
   );
 }
